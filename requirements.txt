@@ -1,0 +1,9 @@
+aiogram==3.20.0.post0
+aiohttp==3.11.18
+python-dotenv==1.1.1
+pyautogui==0.9.54
+opencv-python==4.11.0.86
+pyaudio==0.2.14
+psutil==7.0.0
+pillow==11.3.0
+keyboard
