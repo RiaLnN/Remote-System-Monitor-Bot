@@ -13,9 +13,10 @@ This bot is designed for **personal use** and works only on your own device.
 - `/info` – Get system info (CPU, OS, IP, MAC, etc.)
 - `/screen` – Take a screenshot
 - `/camera` – Capture a photo from the webcam
-- `/audio` – Record audio from microphone (60 sec)
+- `/start` – Record audio from microphone while not stoped
+- `/stop` – Stop record audio
 - `/process` – List all running processes
-- `/help` – Show list of commands
+- `/help` – Show list of commands and buttons
 - `/lock` – Lock keyboard and mouse
 - `/unlock` – Unlock keyboard and mouse
 ---
