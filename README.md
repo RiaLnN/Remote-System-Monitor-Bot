@@ -16,7 +16,8 @@ This bot is designed for **personal use** and works only on your own device.
 - `/audio` – Record audio from microphone (60 sec)
 - `/process` – List all running processes
 - `/help` – Show list of commands
-
+- `/lock` – Lock keyboard and mouse
+- `/unlock` – Unlock keyboard and mouse
 ---
 
 ## 🧪 Technologies Used
